@@ -67,12 +67,22 @@ Bullet-hell tower defense built in Unity — published on itch.io.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ViniciusDugue/Doom-Bowling-OpenGL">
+  <img src="https://viniciusdugue.dev/projects/doom-bowling/img/hellstrike-thumbnail.png" alt="Doom Bowling Hellstrike" />
+</a>
+
+### [Doom Bowling](https://github.com/ViniciusDugue/Doom-Bowling-OpenGL)
+A Hell-themed bowling game in C++ and Modern OpenGL 3.3 — PCF soft shadows, tangent-space normal mapping, Bezier animations, and rigid-body physics.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
-
-### [Doom Bowling — OpenGL →](https://github.com/ViniciusDugue/Doom-Bowling-OpenGL)
-A Hell-themed bowling game built from scratch in C++ with Modern OpenGL 3.3, inspired by *DOOM (1993)* and wacky bowling-alley cinematics. Knock down all 10 pins to trigger a full strike sequence — pins tilt, cascade-jump, march, get vaporized by missiles, and the **Devil Bowling Ball** rolls in on a Bezier curve to deliver the Hellstrike.
-
-**Technical features:** Phong lighting (ambient/diffuse/specular) · directional light · two-pass shadow mapping with **3×3 PCF soft shadows** and slope-scaled bias · tangent-space **normal mapping** with per-vertex TBN matrices · specular maps · custom **FBO** with depth-only attachment · skybox · hierarchical scene graph · custom animation framework (Bezier curves, sinusoidal motion, rotation, translation, move-to, delay) · force-based **rigid-body physics** (gravity, drag, mass, rotational accel) · raycast-style aim picking · billboarded HUD · multithreaded SFML audio · Assimp asset pipeline.
 
 ### Also on GitHub
 [Virtual PT](https://github.com/ViniciusDugue/Virtual-PT-Project) · [Doom Bowling OpenGL](https://github.com/ViniciusDugue/Doom-Bowling-OpenGL) · [Graphics Programming](https://github.com/ViniciusDugue/Graphics-Programming-Projects) · [I Forgot My Sword](https://github.com/ViniciusDugue/I-Forgot-My-Sword) · [Bounce](https://github.com/ViniciusDugue/Bounce-Unity-Game) · [Titanic ML](https://github.com/ViniciusDugue/Titanic-Model-Kaggle-Competition-) · [Smiling Friends Bot](https://github.com/ViniciusDugue/SmilingFriendsBot-Project)
