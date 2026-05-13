@@ -26,6 +26,28 @@ Right now I'm focused on generative agents and the visual tools that make their 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ViniciusDugue/KilterBoard-AI">
+  <img src="https://viniciusdugue.dev/projects/kilter-ai/img/poster.png" alt="Kilter AI generated climbs" />
+</a>
+
+### [Kilter AI](https://github.com/ViniciusDugue/KilterBoard-AI)
+A PyTorch RNN that generates climbing routes for the Kilter Board, trained on a scraped dataset of community climbs.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ViniciusDugue/Doom-Bowling-OpenGL">
+  <img src="https://viniciusdugue.dev/projects/doom-bowling/img/hellstrike-thumbnail.png" alt="Doom Bowling Hellstrike" />
+</a>
+
+### [Doom Bowling](https://github.com/ViniciusDugue/Doom-Bowling-OpenGL)
+A Hell-themed bowling game in C++ and Modern OpenGL 3.3 — PCF soft shadows, tangent-space normal mapping, Bezier animations, and rigid-body physics.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/ViniciusDugue/Ray-Tracing-Engine-from-Scratch">
   <img src="https://viniciusdugue.dev/projects/ray-tracing/img/final-scene.png" alt="Ray Tracing Engine final scene" />
 </a>
@@ -48,34 +70,12 @@ LLM-driven agents living in a Unity world — perception, memory, and behavior l
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ViniciusDugue/KilterBoard-AI">
-  <img src="https://viniciusdugue.dev/projects/kilter-ai/img/poster.png" alt="Kilter AI generated climbs" />
-</a>
-
-### [Kilter AI](https://github.com/ViniciusDugue/KilterBoard-AI)
-A PyTorch RNN that generates climbing routes for the Kilter Board, trained on a scraped dataset of community climbs.
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://github.com/ViniciusDugue/Heart-of-the-Circus">
   <img src="https://img.itch.zone/aW1hZ2UvMzU0NTkzNC8yMTM2MDU0NC5wbmc=/original/ffSOIh.png" alt="Heart of the Circus" />
 </a>
 
 ### [Heart of the Circus](https://github.com/ViniciusDugue/Heart-of-the-Circus)
 Bullet-hell tower defense built in Unity — published on itch.io.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ViniciusDugue/Doom-Bowling-OpenGL">
-  <img src="https://viniciusdugue.dev/projects/doom-bowling/img/hellstrike-thumbnail.png" alt="Doom Bowling Hellstrike" />
-</a>
-
-### [Doom Bowling](https://github.com/ViniciusDugue/Doom-Bowling-OpenGL)
-A Hell-themed bowling game in C++ and Modern OpenGL 3.3 — PCF soft shadows, tangent-space normal mapping, Bezier animations, and rigid-body physics.
 
 </td>
 <td width="50%" valign="top">
