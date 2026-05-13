@@ -26,21 +26,21 @@ Right now I'm focused on generative agents and the visual tools that make their 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://viniciusdugue.dev/projects/ray-tracing/index.html">
+<a href="https://github.com/ViniciusDugue/Ray-Tracing-Engine-from-Scratch">
   <img src="https://viniciusdugue.dev/projects/ray-tracing/img/final-scene.png" alt="Ray Tracing Engine final scene" />
 </a>
 
-### [Ray Tracing Engine](https://viniciusdugue.dev/projects/ray-tracing/index.html)
+### [Ray Tracing Engine](https://github.com/ViniciusDugue/Ray-Tracing-Engine-from-Scratch)
 A path tracer built from scratch in C++ — Lambertian, metal, and dielectric materials, defocus blur, and configurable FOV.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://viniciusdugue.dev/projects/generative-agents/index.html">
+<a href="https://github.com/ViniciusDugue/Generative_Agents">
   <img src="https://viniciusdugue.dev/projects/generative-agents/poster.jpg" alt="Generative Agents poster" />
 </a>
 
-### [Generative Agents](https://viniciusdugue.dev/projects/generative-agents/index.html)
+### [Generative Agents](https://github.com/ViniciusDugue/Generative_Agents)
 LLM-driven agents living in a Unity world — perception, memory, and behavior loops that produce emergent social dynamics.
 
 </td>
@@ -48,21 +48,21 @@ LLM-driven agents living in a Unity world — perception, memory, and behavior l
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://viniciusdugue.dev/projects/kilter-ai/index.html">
+<a href="https://github.com/ViniciusDugue/KilterBoard-AI">
   <img src="https://viniciusdugue.dev/projects/kilter-ai/img/poster.png" alt="Kilter AI generated climbs" />
 </a>
 
-### [Kilter AI](https://viniciusdugue.dev/projects/kilter-ai/index.html)
+### [Kilter AI](https://github.com/ViniciusDugue/KilterBoard-AI)
 A PyTorch RNN that generates climbing routes for the Kilter Board, trained on a scraped dataset of community climbs.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://viniciusdugue.dev/projects/heart-of-the-circus/index.html">
+<a href="https://github.com/ViniciusDugue/Heart-of-the-Circus">
   <img src="https://img.itch.zone/aW1hZ2UvMzU0NTkzNC8yMTM2MDU0NC5wbmc=/original/ffSOIh.png" alt="Heart of the Circus" />
 </a>
 
-### [Heart of the Circus](https://viniciusdugue.dev/projects/heart-of-the-circus/index.html)
+### [Heart of the Circus](https://github.com/ViniciusDugue/Heart-of-the-Circus)
 Bullet-hell tower defense built in Unity — published on itch.io.
 
 </td>
