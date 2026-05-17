@@ -12,11 +12,11 @@
 
 ---
 
-CSULB grad working at the intersection of graphics, simulation, and learning systems. I'm drawn to projects where the underlying math becomes visible — where you can *see* a gradient, a light path, or a simulation evolve.
+CSULB grad working at the intersection of graphics, simulation, and learning systems. I'm drawn to projects where the underlying math becomes visible: where you can *see* a gradient, a light path, or a simulation evolve.
 
-Right now I'm focused on generative agents and the visual tools that make their behavior legible.
+Right now I'm focused on MLE projects, exploring computer graphics techniques like Gaussian splatting.
 
-**→ Live portfolio: [viniciusdugue.dev](https://viniciusdugue.dev)**
+**→ Live portfolio / personal website: [viniciusdugue.dev](https://viniciusdugue.dev)**
 
 ---
 
@@ -31,7 +31,7 @@ Right now I'm focused on generative agents and the visual tools that make their 
 </a>
 
 ### [Kilter AI](https://github.com/ViniciusDugue/KilterBoard-AI)
-A PyTorch RNN that generates climbing routes for the Kilter Board, trained on a scraped dataset of community climbs.
+A PyTorch RNN that generates climbing routes for the Kilter Board, trained on 300k+ climbs pulled from the Kilter Board public API.
 
 </td>
 <td width="50%" valign="top">
@@ -41,7 +41,7 @@ A PyTorch RNN that generates climbing routes for the Kilter Board, trained on a 
 </a>
 
 ### [Doom Bowling](https://github.com/ViniciusDugue/Doom-Bowling-OpenGL)
-A Hell-themed bowling game in C++ and Modern OpenGL 3.3 — PCF soft shadows, tangent-space normal mapping, Bezier animations, and rigid-body physics.
+A Hell-themed bowling game in C++ and Modern OpenGL 3.3: PCF soft shadows, tangent-space normal mapping, Bezier animations, and rigid-body physics.
 
 </td>
 </tr>
@@ -53,7 +53,7 @@ A Hell-themed bowling game in C++ and Modern OpenGL 3.3 — PCF soft shadows, ta
 </a>
 
 ### [Ray Tracing Engine](https://github.com/ViniciusDugue/Ray-Tracing-Engine-from-Scratch)
-A path tracer built from scratch in C++ — Lambertian, metal, and dielectric materials, defocus blur, and configurable FOV.
+A path tracer built from scratch in C++: Lambertian, metal, and dielectric materials, defocus blur, and configurable FOV.
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +63,7 @@ A path tracer built from scratch in C++ — Lambertian, metal, and dielectric ma
 </a>
 
 ### [Generative Agents](https://github.com/ViniciusDugue/Generative_Agents)
-LLM-driven agents living in a Unity world — perception, memory, and behavior loops that produce emergent social dynamics.
+LLM-driven agents living in a Unity world: perception, memory, and behavior loops that produce emergent social dynamics.
 
 </td>
 </tr>
@@ -75,7 +75,7 @@ LLM-driven agents living in a Unity world — perception, memory, and behavior l
 </a>
 
 ### [Heart of the Circus](https://github.com/ViniciusDugue/Heart-of-the-Circus)
-Bullet-hell tower defense built in Unity — published on itch.io.
+Bullet-hell tower defense built in Unity, published on itch.io.
 
 </td>
 <td width="50%" valign="top">
@@ -85,15 +85,16 @@ Bullet-hell tower defense built in Unity — published on itch.io.
 </table>
 
 ### Also on GitHub
-[Virtual PT](https://github.com/ViniciusDugue/Virtual-PT-Project) · [Doom Bowling OpenGL](https://github.com/ViniciusDugue/Doom-Bowling-OpenGL) · [Graphics Programming](https://github.com/ViniciusDugue/Graphics-Programming-Projects) · [I Forgot My Sword](https://github.com/ViniciusDugue/I-Forgot-My-Sword) · [Bounce](https://github.com/ViniciusDugue/Bounce-Unity-Game) · [Titanic ML](https://github.com/ViniciusDugue/Titanic-Model-Kaggle-Competition-) · [Smiling Friends Bot](https://github.com/ViniciusDugue/SmilingFriendsBot-Project)
+[Virtual PT](https://github.com/ViniciusDugue/Virtual-PT-Project) · [Graphics Programming](https://github.com/ViniciusDugue/Graphics-Programming-Projects) · [I Forgot My Sword](https://github.com/ViniciusDugue/I-Forgot-My-Sword) · [Bounce](https://github.com/ViniciusDugue/Bounce-Unity-Game) · [Titanic ML](https://github.com/ViniciusDugue/Titanic-Model-Kaggle-Competition-) · [Smiling Friends Bot](https://github.com/ViniciusDugue/SmilingFriendsBot-Project)
 
 ---
 
 ## Stack
 
-**Graphics** &nbsp; C++ · CUDA · OpenGL · HLSL · Three.js · WebGL
-**Engines** &nbsp; Unity · C# · Shaders
-**ML** &nbsp; Python · PyTorch · NumPy · LLMs & Agent Systems · Reinforcement Learning
+**Graphics** &nbsp; C++ · OpenGL · GLSL · HLSL · CUDA
+**Engines** &nbsp; Unity · C#
+**ML** &nbsp; Python · PyTorch · ML-Agents · ONNX · Reinforcement Learning
+**Web** &nbsp; FastAPI · Firebase · React
 
 ---
 
@@ -107,6 +108,6 @@ Bullet-hell tower defense built in Unity — published on itch.io.
 ---
 
 <p align="center">
-  <sub>Open to collaborations on graphics, simulation, and agent-based systems.</sub><br/>
+  <sub>Open to collaborations on computer graphics, Unity game development, and other interesting projects. Drop a line.</sub><br/>
   <sub><a href="https://viniciusdugue.dev">viniciusdugue.dev</a> · <a href="mailto:vinicius@viniciusdugue.dev">vinicius@viniciusdugue.dev</a></sub>
 </p>
