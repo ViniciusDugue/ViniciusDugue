@@ -98,15 +98,6 @@ Bullet-hell tower defense built in Unity, published on itch.io.
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusDugue&show_icons=true&hide_border=true&bg_color=11141b&title_color=7aa2f7&icon_color=f7768e&text_color=cdd3df" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDugue&layout=compact&hide_border=true&bg_color=11141b&title_color=7aa2f7&text_color=cdd3df" height="160" />
-</p>
-
----
-
 <p align="center">
   <sub>Open to collaborations on computer graphics, Unity game development, and other interesting projects. Drop a line.</sub><br/>
   <sub><a href="https://viniciusdugue.dev">viniciusdugue.dev</a> · <a href="mailto:vinicius@viniciusdugue.dev">vinicius@viniciusdugue.dev</a></sub>
